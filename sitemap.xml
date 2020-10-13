@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://anish-ku.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/author/anish-kumar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anish-ku.github.io/tags/</loc>
+  </url>
+  
+</urlset>
